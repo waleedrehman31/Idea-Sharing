@@ -1,0 +1,20 @@
+.title,
+.loading {
+  text-align: center;
+}
+
+.tS-form,
+.loading {
+  width: 50%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #0a244d;
+  color: white;
+}
+
+html {
+  --text-color-normal: #0a244d;
+  --text-color-light: #8cabd9;
+}
